@@ -7,7 +7,7 @@
 - 👯 Busco colaborar en proyectos desafiantes que me permitan crecer y aportar valor al equipo.  
 - 💬 ¡Pregúntame sobre desarrollo web, JavaScript o cualquier cosa relacionada con tecnología!  
 - 📫 Puedes contactarme aquí:  
-  - **Correo:** luquemariamilagros@gmail.com
+  - **Mail:** luquemariamilagros@gmail.com
   - **LinkedIn:** https://www.linkedin.com/in/milagros-luque-/
   - **Portafolio:**  
 
