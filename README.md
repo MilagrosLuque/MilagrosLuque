@@ -4,8 +4,7 @@
 
 - 🔭 Actualmente, estoy trabajando en proyectos que combinan tecnologías como **React**, **Next.js**, **Node.js**, **Express** y **TypeScript**.  
 - 🌱 Siempre estoy aprendiendo algo nuevo. Ahora mismo, estoy profundizando en **metodologías ágiles**.  
-- 👯 Busco colaborar en proyectos desafiantes que me permitan crecer y aportar valor al equipo.  
-- 💬 ¡Pregúntame sobre desarrollo web, JavaScript o cualquier cosa relacionada con tecnología!  
+- 👯 Busco colaborar en proyectos desafiantes que me permitan crecer y aportar valor al equipo.   
 - 📫 Puedes contactarme aquí:  
   - **Mail:** luquemariamilagros@gmail.com
   - **LinkedIn:** https://www.linkedin.com/in/milagros-luque-/
